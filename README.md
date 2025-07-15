@@ -1,5 +1,5 @@
 # Hi 👋, I'm Yellendhar Lodi  
-🔍 Data Science Enthusiast | 📊 Aspiring Data Analyst | 🧠 Machine Learning Learner | 🚀 Passionate about Solving Real-World Problems with Data  
+🔍 Data Scientist Enthusiast | 📊 Data Analyst | 🧠 Machine Learning Learner | 🚀 Passionate about Solving Real-World Problems with Data  
 
 `yellendhar225`
 
