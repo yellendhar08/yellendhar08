@@ -51,7 +51,8 @@ Git & GitHub | Jupyter Notebook | Google Colab | Windows/Linux
 ---
 
 ## 📌 Featured Projects *(Learning/Personal)*  
-📊 **Caelus - AI Powered Assistant** – Analyzing student performance using Python  
+📊 **Caelus – AI Powered Assistant** – Built a AI assistant using Google Gemini API for real-time interaction and response generation
+ 
 📈 **Basic ML Model** – Predicting mobile prices using Linear Regression  
 📉 **HR-Dashboard Visualization** – Created dashboards in Tableau and charts using Seaborn  
 🧠 **DSA Practice Repository** – Java-based repository solving Leetcode & Striver’s DSA Sheet  
