@@ -1,7 +1,6 @@
 # Hi 👋, I'm Yellendhar Lodi  
 🔍 Data Scientist | 📊 Data Analyst | 🧠 Machine Learning Learner | 🚀 Passionate about Solving Real-World Problems with Data  
 
-`yellendhar225`
 
 ---
 
