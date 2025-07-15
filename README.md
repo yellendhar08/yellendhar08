@@ -50,9 +50,9 @@ Git & GitHub | Jupyter Notebook | Google Colab | Windows/Linux
 ---
 
 ## 📌 Featured Projects *(Learning/Personal)*  
-📊 **Mini EDA on Student Scores** – Analyzing student performance using Python  
-📈 **Basic ML Model** – Predicting house prices using Linear Regression  
-📉 **COVID-19 Data Visualization** – Created dashboards in Tableau and charts using Seaborn  
+📊 **Caelus - AI Powered Assistant** – Analyzing student performance using Python  
+📈 **Basic ML Model** – Predicting mobile prices using Linear Regression  
+📉 **HR-Dashboard Visualization** – Created dashboards in Tableau and charts using Seaborn  
 🧠 **DSA Practice Repository** – Java-based repository solving Leetcode & Striver’s DSA Sheet  
 
 ---
