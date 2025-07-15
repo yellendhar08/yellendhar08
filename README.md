@@ -20,6 +20,7 @@
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yellendhar-lodi-37094024a/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yellendhar225@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Yellendharlodi225/)
 
 ---
 
