@@ -6,7 +6,7 @@
 
 ## 🏆 About Me
 
-🎓 B.Tech CSE Student with a growing interest in **Data Science & AI**  
+🎓 B.Tech CSE Student with a growing interest in **Data Science & AI** 
 🌱 Currently building skills in **Machine Learning, SQL, and Data Visualization**  
 💡 Interested in **Predictive Analytics, Business Intelligence & Applied AI**  
 💬 Ask me about **Java, Python, SQL, Excel, Power BI, Tableau, and C++ (OOP)**  
@@ -50,7 +50,7 @@ Git & GitHub | Jupyter Notebook | Google Colab | Windows/Linux
 ---
 
 ## 📌 Featured Projects *(Learning/Personal)*
-🎬 **Movie Recommendation System** – Built with Streamlit using cosine similarity & NLP. Deployed via GitHub and Google Drive integration
+🎬 **Movie Recommendation System** – Built with Streamlit using cosine similarity & NLP. Deployed via GitHub and Google Drive integration 
 📊 **Caelus – AI Powered Assistant** – Built an AI assistant using Google Gemini API for real-time response generation  
 📈 **Basic ML Model** – Predicting mobile prices using Linear Regression  
 📉 **HR-Dashboard Visualization** – Created dashboards in Tableau and charts using Seaborn  
