@@ -50,11 +50,12 @@ Git & GitHub | Jupyter Notebook | Google Colab | Windows/Linux
 ---
 
 ## 📌 Featured Projects *(Learning/Personal)*
-🎬 **Movie Recommendation System** – Built with Streamlit using cosine similarity & NLP. Deployed via GitHub and Google Drive integration 
+🎬 **Movie Recommendation System** – Built with Streamlit using cosine similarity & NLP. Deployed via GitHub and Google Drive integration  
 📊 **Caelus – AI Powered Assistant** – Built an AI assistant using Google Gemini API for real-time response generation  
 📈 **Basic ML Model** – Predicting mobile prices using Linear Regression  
 📉 **HR-Dashboard Visualization** – Created dashboards in Tableau and charts using Seaborn  
 🧠 **DSA Practice Repository** – Java-based repository solving Leetcode & Striver’s DSA Sheet  
+
 
 
 ---
