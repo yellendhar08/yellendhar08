@@ -35,12 +35,15 @@
 
 ---
 
-### 📊 Machine Learning & AI  
+### 📊 Machine Learning & AI 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white) 
-![SVM](https://img.shields.io/badge/SVM-00599C?style=for-the-badge&logo=machinelearning&logoColor=white) 
-![KNN](https://img.shields.io/badge/KNN-0072C6?style=for-the-badge&logo=machinelearning&logoColor=white) 
-![Clustering](https://img.shields.io/badge/Clustering-4E9A06?style=for-the-badge&logo=data&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-007ACC?style=for-the-badge&logo=ai&logoColor=white)  
+> Algorithms: SVM, KNN, Decision Trees, Regression, XGBoost  
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-9C27B0?style=for-the-badge&logo=ai&logoColor=white)  
+> Algorithms: K-Means Clustering, PCA
+
 
 ---
 
