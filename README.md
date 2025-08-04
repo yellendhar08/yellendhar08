@@ -33,8 +33,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
-
 ### 🧠 ML Frameworks & Data Science Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) 
@@ -46,9 +44,6 @@
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-007ACC?style=flat-square&logo=ai&logoColor=white) 
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-9C27B0?style=flat-square&logo=ai&logoColor=white)
 
-
----
-
 ### 💼 Data Analytics & Visualization  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
@@ -56,8 +51,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Google--Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
 
 ### ⚙️ Tools & Platforms  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black) 
