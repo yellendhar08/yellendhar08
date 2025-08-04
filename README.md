@@ -40,9 +40,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white) 
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-007ACC?style=for-the-badge&logo=ai&logoColor=white)  
-> Algorithms: SVM, KNN, Decision Trees, Regression, XGBoost  
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-9C27B0?style=for-the-badge&logo=ai&logoColor=white)  
-> Algorithms: K-Means Clustering, PCA
 
 
 ---
