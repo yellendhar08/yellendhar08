@@ -35,20 +35,17 @@
 
 ---
 
-### 📊 Machine Learning & AI  
+### 🧠 ML Frameworks & Data Science Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white) 
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-007ACC?style=flat-square&logo=ai&logoColor=white) 
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-9C27B0?style=flat-square&logo=ai&logoColor=white)
-
----
-
-### 📚 Data Science Libraries  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-007ACC?style=flat-square&logo=ai&logoColor=white) 
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-9C27B0?style=flat-square&logo=ai&logoColor=white)
+
 
 ---
 
